@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Scaloneta</title>
+  <title>Desert Dream</title>
+  <link rel="icon" href="img/Logofuchi.png">
   <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-  <?php
-
-    ?>
+ 
+      <?php include "Navbar.php" ?>
+    
     <br><br><br>
   <div class="container">
     <div class="row justify-content-center">
