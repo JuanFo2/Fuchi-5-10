@@ -22,17 +22,16 @@
                                             Cuenta
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" href="formu_login.php"> Iniciar Sesión</a>
-                                            <a class="dropdown-item" href="formu_registrarse.php">Registrarse</a>
+                                            <a class="dropdown-item" href="home.php"> Cerrar Sesión</a>
                                         </div>
                                     </li>
                                 </ul>
                             </div>
-                            <a href="formu_login.php" class="btn_1 d-none d-sm-block">Instalar ahora</a>
+                            <a href="#" class="btn_1 d-none d-sm-block">Instalar ahora</a>
                             
                             
                         </nav>
                     </div>
                 </div>
             </div>
-        </header>
+</header>
