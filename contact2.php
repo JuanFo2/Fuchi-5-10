@@ -29,7 +29,7 @@
 
 <body>
   <!--::header part start::-->
-  <?php include "Navbar.php" ?>
+  <?php include "Navbar2.php" ?>
   <!-- Header part end-->
 
   <div class="about-section">

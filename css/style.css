@@ -36,7 +36,7 @@
 /* line 3, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
 body {
   font-family: "Aclonica", sans-serif;
-  padding: 0;
+  padding: 0; 
   margin: 0;
   font-size: 14px;
 }
@@ -203,7 +203,7 @@ a:hover {
 
 /* line 87, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
 h1, h2, h3, h4, h5, h6 {
-  color: #fff;
+  color: #1b1b1b;
   font-family: "Aclonica", sans-serif;
 }
 
@@ -213,7 +213,7 @@ p {
   line-height: 29px;
   font-size: 15px;
   margin-bottom: 0px;
-  color: #fff;
+  color: #000;
   font-weight: 300;
 }
 
@@ -6492,5 +6492,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #0b111f;
   padding: 30px 0;
 }
+
+.
 
 /*# sourceMappingURL=style.css.map */
