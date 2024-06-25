@@ -39,7 +39,7 @@
                     <div class="col-lg-6 col-md-8">
                         <div class="banner_text">
                             <div class="banner_text_iner">
-                                <h1>Dream Desert</h1>
+                                <h1>Desert Dream </h1>
                                 <p>Este video juego apasionante basado en el aspecto de la famosa serie de Netflix titulada "Breaking Bad" nos contará la historia de Walter Black, un frustrado profesor de química de la Universidad de Nueva México. </p>
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                     <div class="col-md-7 offset-sm-1">
                         <div class="live_stareams_slide owl-carousel">
                             <div class="live_stareams_slide_img">
-                                <img src="img/Black.png" alt="">
+                                <img src="img/cap2.png" alt="">
                             </div>
                             <div class="live_stareams_slide_img">
                                 <img src="img/capilla.png" alt="">
