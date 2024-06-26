@@ -3,7 +3,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg navbar-light">
-                            <a class="navbar-brand" href="home2.php"> <img src="img/LogoJuego.png" width="200px" height="150px" alt="logo"> </a>
+                            <a class="navbar-brand" href="home2.php"> <img src="img/LogoBlanco.png" width="200px" height="200px" alt="logo"> </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="menu_icon"><i class="fas fa-bars"></i></span>
                             </button>

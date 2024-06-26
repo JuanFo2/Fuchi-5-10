@@ -57,7 +57,7 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-md-2 offset-lg-2 offset-sm-1">
                         <div class="live_stareams_text">
-                            <h2> Imagenes</h2>
+                            <h2 style="color: white;"> Imagenes</h2>
                         </div>
                     </div>
                     <div class="col-md-7 offset-sm-1">

@@ -5,8 +5,8 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>gaming</title>
-  <link rel="icon" href="img/favicon.png">
+  <title>fuchi</title>
+  <link rel="icon" href="img/Logofuchi.png">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <!-- animate CSS -->
@@ -37,71 +37,77 @@
   
  
 </div>
-<h1>Sobre nosotros</h1>
-  <p>En esta página encontraras información sobre los integrantes de FuchiSS.</p>
+<br><br><br>
+<h1 style="text-align: center;">Sobre nosotros</h1>
+ 
 <h2 style="text-align:center">Integrantes</h2>
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img/about_img.png" alt="Jane" style="width:100%">
+      
+      <div class="container">
+        <h2>Juan Franco Ojeda</h2>
+        <p class="title">Project manager</p>
+        <p>Se encarga de administrar tareas en el equipo para que todo salga lo mejor posible.</p>
+        <h4>contacto:</h4>
+        <p>juanfrancoob@gmail.com</p>
+       
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+     
       <div class="container">
         <h2>Matias Ortiz</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p class="title">Administrador de bases de datos</p>
+        <p>Administra la base de datos de la pagina web, ademas, hace tareas variadas ocasionalmente.</p>
+        <h4>contacto:</h4>
         <p>matyaspaqui@gmail.com</p>
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="img/about_img.png" alt="Mike" style="width:100%">
-      <div class="container">
-        <h2>Juan Ojeda</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>juanfrancoob@gmail.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="img/about_img.png" alt="John" style="width:100%">
+     
       <div class="container">
         <h2>Martin Kohen</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p class="title">Programador</p>
+        <p>Se encarga del back end tanto de la pagina web como del juego.</p>
+        <h4>contacto:</h4>
         <p>martinkohen6@gmail.com</p>
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
 </div>
 <div class="column">
     <div class="card">
-      <img src="img/about_img.png" alt="John" style="width:100%">
+      
       <div class="container">
         <h2>Luciano Arnez</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p class="title">diseñador y gestor de redes sociales</p>
+        <p>Administra las redes sociales y hace algunas tareas de diseño.</p>
+        <h4>contacto:</h4>
         <p>estoyderuculovich@gmail.com</p>
-        <p><button class="button">Contact</button></p>
+        
       </div>
     </div>
   </div>
 </div>
 <div class="column">
     <div class="card">
-      <img src="img/about_img.png" alt="John" style="width:100%">
+     
       <div class="container">
         <h2>Agustin Palacio</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p class="title">Diseñador</p>
+        <p>Se encarga de las tareas de diseño de la pagina web y del videojuego</p>
+        <h4>contacto:</h4>
         <p>agustinpalacio1075@gmail.com</p>
-        <p><button class="button">Contact</button></p>
+      
       </div>
     </div>
   </div>
