@@ -27,7 +27,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="#" class="btn_1 d-none d-sm-block">Instalar ahora</a>
+                            <a href="https://github.com/JuanFo2/Fuchi-5-10.git" class="btn_1 d-none d-sm-block">Instalar ahora</a>
                             
                             
                         </nav>
