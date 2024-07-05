@@ -97,7 +97,7 @@
                             <div class="grid">
                                 <div class="grid-sizer"></div>
                                 
-                                <a href="img/enemigo1.png" class="grid-item bg_img img-gal" style="background-image: url('img/enemigo1.png')">
+                                <a href="img/grisgi.gif" class="grid-item bg_img img-gal" style="background-image: url('img/grisgi.gifx')">
                                     <div class="single_gallery_item">
                                         <div class="single_gallery_item_iner">
                                             <div class="gallery_item_text">
