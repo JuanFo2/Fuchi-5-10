@@ -17,7 +17,7 @@ if (isset($_POST['login'])) {
     if ($numero_registros != 0) {
         // Inicio de sesión exitoso
         echo "Inicio de sesión exitoso. Bienvenido, " . $usuario . "!";
-        header("Location: home.php");
+        header("Location: home2.php");
     } else {
         // Credenciales inválidas
         echo "Credenciales inválidas. Por favor, verifica tu nombre de usuario y/o contraseña." . "<br>";
